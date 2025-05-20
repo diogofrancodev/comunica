@@ -22,7 +22,7 @@ O Projeto será para aplicar tudo que aprendi com o Laravel da versão 5.4 até 
 - Laravel Permission
 - Laravel JetStream
 - Laravel Backup
-- Laravel Reverb
+- Laravel Reverb ( Nunca usei )
 - Laravel Horizon
 
 ## Dependências NPM
