@@ -6,6 +6,11 @@ Com o painel, você pode:
 - Receber logs de erros.
 - Receber status de backups.
 
+O projeto vai contar com manual de instalação de um VPS Debian com PHP, NodeJS, NGINX, MYSQL.
+As configurações de Nginx, Https com Certbot e alguns detalhes de Firewall.
+
+O Projeto será para aplicar tudo que aprendi com o Laravel da versão 5.4 até hoje, que no momento é o 12.
+
 
 ## Dependências Composer
 
@@ -15,6 +20,10 @@ Com o painel, você pode:
 - Laravel Backup
 - Laravel Reverb
 - Laravel Horizon
+
+## Dependências NPM
+
+- bootstrap
 
 
 ## License
