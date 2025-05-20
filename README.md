@@ -1,3 +1,6 @@
+
+| Laravel 12 | PHP 8.4 | NPM 9.2.0 | 
+
 ## Comunica
 
 Painel de monitoramento de projetos.
