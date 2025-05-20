@@ -8,6 +8,7 @@ Com o painel, você pode:
 - Cadastrar domínios e monitorar status.
 - Receber logs de erros.
 - Receber status de backups.
+- Monitorar erros com alertas visuais e sonoros.
 
 O projeto vai contar com manual de instalação de um VPS Debian com PHP, NodeJS, NGINX, MYSQL.
 As configurações de Nginx, Https com Certbot e alguns detalhes de Firewall.
